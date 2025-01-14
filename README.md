@@ -1,6 +1,6 @@
 ## Installation Steps
 
-1. Clone the Github Repository - [Link](https://github.com/calto16/Travel-SkyHigh-Proj)
+1. Clone the Github Repository - [Link]()
 2. `cd` into the project folder.
 3. Run `npm install`.
 4. Create a `.env` file with the following variables:
